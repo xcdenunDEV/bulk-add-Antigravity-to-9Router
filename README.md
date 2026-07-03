@@ -1,4 +1,4 @@
-# 9ROUTER ADD MASS ACCOUNT ANTIGRAVITY PROVIDER
+# 9ROUTER ADD MASS ACCOUNT ANTIGRAVITY PROVIDER (Support v0.5.18)
 
 Bot Puppeteer untuk menambahkan akun Google secara bulk ke Antigravity Provider pada tools 9Router.
 
@@ -13,6 +13,7 @@ Bot Puppeteer untuk menambahkan akun Google secara bulk ke Antigravity Provider 
 
 ## Requirements
 
+- **9Router** v0.5.18
 - [Node.js](https://nodejs.org/) v18 atau lebih baru
 - [Google Chrome](https://www.google.com/chrome/) terinstall di sistem
 - npm (sudah termasuk saat install Node.js)
